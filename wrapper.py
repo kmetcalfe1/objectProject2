@@ -3,7 +3,7 @@ import time
 import subprocess
 
 
-api_key="0b7ff6c359bb16ddf027c16535ac2ad0"
+api_key="blep, don't take my key :("
 lat=40.014984
 lng=-105.270546
 startTime=time.time()
